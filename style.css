@@ -1,0 +1,149 @@
+
+ Task 1 
+
+.First{
+    position: static;
+    left: 20px;
+    bottom: 20px;
+    background-color: blanchedalmond;
+    padding: 30px;
+}
+
+.Second{
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+    background-color: rgb(171, 108, 15);
+    padding: 30px;
+}
+
+.Third{
+    position: absolute;
+    left: 30px;
+    bottom: 60px;
+    background-color: rgb(171, 108, 15);
+    padding: 30px;
+}
+
+.Four {
+    position: fixed;
+    left: 50px;
+    bottom: 150px;
+    background-color: blanchedalmond;
+  }
+
+  .Five {
+    position: sticky;
+    left: 30px;
+    bottom: 40px;
+    background-color: yellow;
+  } 
+
+
+  /* Task 2 */
+  
+
+  /* .First_inline {
+    display: inline;
+   background-color: aquamarine;
+  }
+  
+  .Second_inline-block {
+    display: inline-block;
+   background-color: rgb(84, 190, 155);
+  }
+  
+  .Third_block {
+    display: block;
+   background-color: rgb(141, 118, 178);
+  }
+  
+  .Four_flex {
+    display: flex;
+ 
+  }
+  
+  .Fifth_grid {
+    display: grid;
+   background-color: rgb(212, 179, 60);
+  }
+  
+  .Six_inherit{
+    display: block;
+    background-color: red;
+  }
+
+ #first_flex{
+    background-color: rgb(95, 189, 137);
+ }
+  
+ #second_flex{
+    background-color: rgb(87, 108, 159);
+ }
+  
+ #third_flex{
+    background-color: rgba(142, 74, 125, 0.169);
+ }
+  
+
+#first_frid{
+    background-color: aqua;
+}
+#second_frid{
+    background-color: rgb(118, 163, 96);
+}
+#third_frid{
+    background-color: rgb(126, 71, 118); */
+/* } */
+
+
+/* Task 3 */
+/* 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    margin-left: 150px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    top: 200px;
+}
+
+.flex-box{
+    width: 200px;
+    height: 200px;
+   background-color: rgb(90, 105, 119);
+    color: rgb(20, 112, 218);
+    font-size: 2rem;
+    align-items: center;
+    line-height: 200px;
+    border-radius: 5%;
+    margin: 10px;
+    
+} */
+
+
+
+
+/* <h1 align="cente">Task 3 FlexBox</h1>
+
+<div class="container">
+    <div class="FIrst_flex-box">
+        First_FlexBox
+    </div>
+    <div class="Second_flex-box">
+        Second_FlexBox
+    </div>  
+    <div class="Third_flex-box">
+        Third_FlexBox
+    </div>
+    <div class="Four_flex-box">
+        Four_FlexBox
+    </div>
+</div> */
